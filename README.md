@@ -1,11 +1,10 @@
 ![뮤직큐 기능 포스터 (1)](https://user-images.githubusercontent.com/68101656/236461347-00b15cfd-f26a-4f3c-aad9-1f3e6dd78180.png)
 
 [**🎥 시연 영상**](https://youtu.be/G2NeFoAerD0)
-
+[**Github Repository**](https://github.com/Dream-Kakao)
 <br>
 
 # 🏆 카카오 클라우드 스쿨 우수 프로젝트 수상
-
 <br>
 
 # 👨‍👨‍👧‍👧 팀원
